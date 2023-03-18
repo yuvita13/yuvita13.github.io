@@ -4,7 +4,7 @@
 
 ### Zenius's Independent Study 
 
-[Project 1 Title](/sample_page)
+[Project 1 Use Case Data](/sample_page)
 <img src="images/dummy pzsib.jpeg?raw=true"/>
 
 ---
