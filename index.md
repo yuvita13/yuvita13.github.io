@@ -5,15 +5,15 @@
 ### Zenius's Independent Study 
 
 [Project 1 Use Case Data](/sample_page)
-<img src="images/dummy pzsib.jpeg?raw=true"/>
+<img src="images/dummy_pzsib.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy pzsib.jpeg?raw=true"/>
+<img src="images/dummy_pzsib.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy pzsib.jpeg?raw=true"/>
+<img src="images/dummy_pzsib.jpeg?raw=true"/>
 
 ---
 
