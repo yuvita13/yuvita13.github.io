@@ -1,6 +1,5 @@
 title: Yuvita Andriani Kusumadewi 
 logo: "/images/K1320085.jpg?raw=true"
-logo_style: "border-radius: 50%; width: 200px;"
 description: >
   <p style="text-align:center;">
   <a href="CV [Yuvita Andriani Kusumadewi].pdf?raw=true">Resume</a> |
@@ -13,6 +12,14 @@ description: >
   <br><br>
   I like teaching, especially teaching math. I'm a fast learner and a highly enthusiastic person. Finding new experiences and skills is my way to improve myself. 
   </p>
+
+style: >
+  img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
